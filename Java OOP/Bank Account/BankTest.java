@@ -6,6 +6,7 @@ public class BankTest {
         BankAccount accoun3 = new BankAccount();
         BankAccount account4 = new BankAccount("Mohammad");
         BankAccount account5 = new BankAccount();
+        BankAccount.getNumberOfAccounts();
 
         // Deposit Test
         // - deposit some money into each bank account's checking or savings account and display the balance each time
