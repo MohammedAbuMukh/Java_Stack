@@ -134,3 +134,125 @@
 2024-12-16 08:29:31,013 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-12-16 08:29:31,023 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-12-16 08:29:31,027 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Simple_Receipt\src\test\resources
+2024-12-16 15:33:52,633 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-16 15:39:44,611 [Worker-8: Launching Simple_Receipt - SimpleReceiptApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 15:39:44,639 [Worker-8: Launching Simple_Receipt - SimpleReceiptApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 15:39:44,646 [Worker-8: Launching Simple_Receipt - SimpleReceiptApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Simple_Receipt\src\test\resources
+2024-12-16 15:40:52,348 [Worker-6: Launching Simple_Receipt - SimpleReceiptApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 15:40:52,360 [Worker-6: Launching Simple_Receipt - SimpleReceiptApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 15:40:52,364 [Worker-6: Launching Simple_Receipt - SimpleReceiptApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Simple_Receipt\src\test\resources
+2024-12-16 16:34:28,822 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-16 16:37:19,258 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Display_Date:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Display_Date\pom.xml.
+2024-12-16 16:37:20,756 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Display_Date/src/main/java
+2024-12-16 16:37:20,758 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Display_Date/src/main/resources
+2024-12-16 16:37:20,762 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Display_Date/src/main/resources
+2024-12-16 16:37:20,767 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Display_Date/src/test/java
+2024-12-16 16:37:20,768 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Display_Date/src/test/resources
+2024-12-16 16:37:23,030 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-12-16 16:37:23,035 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-16 16:37:23,686 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Display_Date:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Display_Date\pom.xml.
+2024-12-16 16:37:24,951 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Display_Date/src/main/java
+2024-12-16 16:37:24,952 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Display_Date/src/main/resources
+2024-12-16 16:37:24,953 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Display_Date/src/main/resources
+2024-12-16 16:37:24,953 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Display_Date/src/test/java
+2024-12-16 16:37:24,955 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Display_Date/src/test/resources
+2024-12-16 16:37:26,714 [Worker-5: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Display_Date
+2024-12-16 16:37:26,858 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2024-12-16 16:37:28,802 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 16:37:28,821 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 16:37:28,828 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 16:37:28,829 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Display_Date
+2024-12-16 16:37:28,830 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Display_Date
+2024-12-16 16:40:20,560 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 16:40:20,568 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 16:40:20,572 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 16:42:06,173 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 16:42:06,174 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 16:42:06,178 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 16:45:25,713 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 16:45:25,717 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 16:45:25,739 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 16:47:01,535 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 16:47:01,536 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 16:47:01,551 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 16:47:02,610 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 16:47:02,612 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 16:47:02,617 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 16:47:42,838 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 16:47:42,847 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-12-16 16:47:42,851 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 16:48:08,885 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 16:48:08,900 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-12-16 16:48:08,909 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 16:51:41,962 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.33/tomcat-annotations-api-10.1.33.jar
+2024-12-16 16:51:41,987 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.33/tomcat-annotations-api-10.1.33.jar
+2024-12-16 16:51:42,081 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsosacademy.disscusion:jstl_more:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Display_Date\pom.xml.
+2024-12-16 16:51:43,376 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 16:51:43,401 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-12-16 16:51:43,409 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 16:51:43,409 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Display_Date
+2024-12-16 16:51:43,409 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Display_Date
+2024-12-16 16:51:43,900 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.33/tomcat-annotations-api-10.1.33-sources.jar
+2024-12-16 16:51:43,916 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.33/tomcat-annotations-api-10.1.33-sources.jar
+2024-12-16 16:51:43,921 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-annotations-api:10.1.33
+2024-12-16 16:51:44,283 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/5.2.3/bootstrap-5.2.3-javadoc.jar
+2024-12-16 16:51:45,137 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/5.2.3/bootstrap-5.2.3-javadoc.jar
+2024-12-16 16:51:45,145 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.webjars:bootstrap:5.2.3
+2024-12-16 16:51:46,790 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 16:51:46,868 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-12-16 16:51:46,878 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:04:22,612 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:04:22,613 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:04:22,618 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:05:18,643 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:05:18,646 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:05:18,666 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:06:08,817 [Worker-2: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 17:06:08,823 [Worker-2: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-12-16 17:06:08,827 [Worker-2: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:10:54,089 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:10:54,091 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:10:54,097 [Worker-10: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:17:30,723 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:17:30,725 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 17:17:30,731 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:22:42,262 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:22:42,264 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:22:42,268 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:23:16,549 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:23:16,550 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 17:23:16,556 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:23:38,118 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:23:38,120 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 17:23:38,126 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:23:38,303 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:23:38,304 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 17:23:38,313 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:25:54,582 [Worker-13: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:25:54,584 [Worker-13: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-12-16 17:25:54,613 [Worker-13: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:32:43,479 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Simple_Receipt:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Simple_Receipt\pom.xml.
+2024-12-16 17:32:45,126 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 17:32:45,159 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:32:45,166 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Simple_Receipt\src\test\resources
+2024-12-16 17:32:46,393 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Simple_Receipt:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Simple_Receipt\pom.xml.
+2024-12-16 17:33:07,294 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Routes:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Routes\pom.xml.
+2024-12-16 17:33:08,418 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 17:33:08,444 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:33:08,450 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Routes\src\test\resources
+2024-12-16 17:33:09,543 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Routes:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Routes\pom.xml.
+2024-12-16 17:33:33,489 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Path_Variables:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Path_Variables\pom.xml.
+2024-12-16 17:33:34,584 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 17:33:34,617 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:33:34,624 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Path_Variables\src\test\resources
+2024-12-16 17:33:35,545 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Path_Variables:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Path_Variables\pom.xml.
+2024-12-16 17:34:04,739 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsosacademy.disscusion:jstl_more:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Display_Date\pom.xml.
+2024-12-16 17:39:20,105 [Worker-20: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 17:39:20,151 [Worker-20: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-12-16 17:39:20,158 [Worker-20: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:40:47,896 [Worker-14: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:40:47,897 [Worker-14: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:40:47,901 [Worker-14: Launching Display_Date - DisplayDateApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources
+2024-12-16 17:44:47,257 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 17:44:47,259 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-16 17:44:47,266 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Display_Date\src\test\resources

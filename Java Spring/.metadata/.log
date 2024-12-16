@@ -945,3 +945,753 @@ Java Model Exception: Error in Java Model (code 979): Invalid path: '/Simple_Rec
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 08:23:19.570
 !MESSAGE Classpath changed for project: Simple_Receipt
+!SESSION 2024-12-16 15:33:23.821 -----------------------------------------------
+eclipse.buildId=4.34.0.202411281622
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-16 15:33:29.116
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-16 15:33:40.845
+!MESSAGE Logback config file: D:\Java Stack\Java Spring\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-16 15:33:41.833
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-16 15:33:41.833
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 4 4 2024-12-16 15:33:42.190
+!MESSAGE Invalid workspace location to be set for Edge browser.
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 13: file:/D:/Java Stack/Java Spring/.metadata/.plugins/org.eclipse.swt
+	at java.base/java.net.URI$Parser.fail(URI.java:2995)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3166)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3248)
+	at java.base/java.net.URI$Parser.parse(URI.java:3196)
+	at java.base/java.net.URI.<init>(URI.java:645)
+	at java.base/java.net.URL.toURI(URL.java:1220)
+	at org.eclipse.ui.internal.Workbench.setEdgeDataDirectory(Workbench.java:530)
+	at org.eclipse.ui.internal.Workbench.<init>(Workbench.java:461)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:598)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:570)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.ui 2 0 2024-12-16 15:33:42.399
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-16 15:33:42.399
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-16 15:33:49.342
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\spring-tool-suite-4-4.27.0.RELEASE-e4.34.0-win32.win32.x86_64\sts-4.27.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Dspring.config.location=classpath:/application.properties
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/Java Stack/Java Spring/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1734356029341
+-Dlanguageserver.hover-timeout=225
+-jar
+C:\spring-tool-suite-4-4.27.0.RELEASE-e4.34.0-win32.win32.x86_64\sts-4.27.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.59.0.202411281450\servers\spring-boot-language-server\spring-boot-language-server-1.59.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 15:33:49.343
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-16 15:33:49.365
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 61960
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2024-12-16 15:33:49.909
+!MESSAGE No search provider was registered. Tasks search is not available.
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-12-16 15:33:52.915
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Moham'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 15:33:53.347
+!MESSAGE Boot project ADDED: Simple_Receipt
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 15:33:53.348
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 15:33:53.349
+!MESSAGE Started Boot LS process
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:34:04.553
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:34:04.555
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:34:04.556
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:34:04.558
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:34:04.575
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:34:04.583
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 15:39:14.250
+!MESSAGE InterruptedException
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResolution(LSPCodeActionMarkerResolution.java:159)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.getResolutions(LSPCodeActionMarkerResolution.java:105)
+	at org.springframework.tooling.boot.ls.markers.LSPBootCodeActionMarkerResolution.getResolutions(LSPBootCodeActionMarkerResolution.java:25)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.getResolutions(MarkerHelpRegistry.java:393)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor.collectMarkerProposals(JavaCorrectionProcessor.java:318)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor.collectProposals(JavaCorrectionProcessor.java:277)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.getMarkerAnnotationFixes(ProblemHover.java:154)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.computeCompletionProposals(ProblemHover.java:95)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.<init>(ProblemHover.java:74)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover.createAnnotationInfo(ProblemHover.java:178)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover.getHoverInfo2(AbstractAnnotationHover.java:755)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:42:58.436
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:42:58.437
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:42:58.439
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:42:58.442
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:42:58.459
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 15:42:58.471
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-12-16 15:43:06.219
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.lsp4e.LanguageServerWrapper$2 RUNNING
+	 at java.base/jdk.internal.misc.Unsafe.park(Native Method)
+	 at java.base/java.util.concurrent.locks.LockSupport.park(LockSupport.java:221)
+	 at java.base/java.util.concurrent.CompletableFuture$Signaller.block(CompletableFuture.java:1864)
+	 at java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+	 at java.base/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+	 at java.base/java.util.concurrent.CompletableFuture.waitingGet(CompletableFuture.java:1898)
+	 at java.base/java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2117)
+	 at org.eclipse.lsp4e.LanguageServerWrapper$2.run(LanguageServerWrapper.java:446)
+	 at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-12-16 16:33:58.591 -----------------------------------------------
+eclipse.buildId=4.34.0.202411281622
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-16 16:34:02.638
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-16 16:34:16.438
+!MESSAGE Logback config file: D:\Java Stack\Java Spring\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-16 16:34:17.345
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-16 16:34:17.345
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 4 4 2024-12-16 16:34:17.601
+!MESSAGE Invalid workspace location to be set for Edge browser.
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 13: file:/D:/Java Stack/Java Spring/.metadata/.plugins/org.eclipse.swt
+	at java.base/java.net.URI$Parser.fail(URI.java:2995)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3166)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3248)
+	at java.base/java.net.URI$Parser.parse(URI.java:3196)
+	at java.base/java.net.URI.<init>(URI.java:645)
+	at java.base/java.net.URL.toURI(URL.java:1220)
+	at org.eclipse.ui.internal.Workbench.setEdgeDataDirectory(Workbench.java:530)
+	at org.eclipse.ui.internal.Workbench.<init>(Workbench.java:461)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:598)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:570)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.ui 2 0 2024-12-16 16:34:17.754
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-16 16:34:17.754
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-16 16:34:25.042
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\spring-tool-suite-4-4.27.0.RELEASE-e4.34.0-win32.win32.x86_64\sts-4.27.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Dspring.config.location=classpath:/application.properties
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/Java Stack/Java Spring/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1734359665041
+-Dlanguageserver.hover-timeout=225
+-jar
+C:\spring-tool-suite-4-4.27.0.RELEASE-e4.34.0-win32.win32.x86_64\sts-4.27.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.59.0.202411281450\servers\spring-boot-language-server\spring-boot-language-server-1.59.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:34:25.043
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-16 16:34:25.073
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 70080
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:34:25.097
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:34:25.099
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:34:25.101
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:34:25.102
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:34:25.167
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:34:25.175
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2024-12-16 16:34:25.638
+!MESSAGE No search provider was registered. Tasks search is not available.
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-12-16 16:34:29.631
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Moham'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:34:29.891
+!MESSAGE Boot project ADDED: Simple_Receipt
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:34:29.892
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:34:29.896
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:35:12.432
+!MESSAGE Classpath changed for project: Simple_Receipt
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:35:12.438
+!MESSAGE Boot project REMOVED: Simple_Receipt
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:37:21.337
+!MESSAGE Classpath changed for project: Display_Date
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:37:21.338
+!MESSAGE Boot project ADDED: Display_Date
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:37:21.390
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:37:21.391
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:37:21.393
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:37:21.394
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:37:21.407
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:37:21.414
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:37:24.431
+!MESSAGE Classpath changed for project: Display_Date
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:37:26.040
+!MESSAGE Classpath changed for project: Display_Date
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:37:26.198
+!MESSAGE Classpath changed for project: Display_Date
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:42:22.707
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:42:22.708
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:42:22.713
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:42:22.719
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:42:22.730
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 16:42:22.741
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 16:47:02.396
+!MESSAGE [Info]	ESLint server running in node v22.11.0
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 16:47:02.557
+!MESSAGE [Info]	Using Typescript version (user-setting) 5.6.3 from path "C:\spring-tool-suite-4-4.27.0.RELEASE-e4.34.0-win32.win32.x86_64\sts-4.27.0.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.2.4.202411181846\node_modules\typescript\lib\tsserver.js"
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 16:47:02.564
+!MESSAGE [Info]	Typescript Server version info: {version=5.6.3, source=user-setting}
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 16:51:00.728
+!MESSAGE [Info]	ESLint server running in node v22.11.0
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 16:51:00.762
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:51:43.703
+!MESSAGE Classpath changed for project: Display_Date
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:51:44.447
+!MESSAGE Classpath changed for project: Display_Date
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 16:51:46.341
+!MESSAGE Classpath changed for project: Display_Date
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:02:21.423
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:29.238
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:31.260
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:32.982
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:32.996
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:38.811
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:38.823
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:38.833
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:41.972
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:41.987
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:41.993
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:43.242
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:43.252
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:43.264
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:44.116
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:44.122
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:44.130
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:47.982
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:47.989
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:47.998
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:51.176
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:51.183
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:51.192
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:52.358
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:52.364
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:03:52.379
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:06:09.819
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:06:09.827
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:06:09.848
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:23:17.043
+!MESSAGE [Info]	ESLint server running in node v22.11.0
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:23:17.249
+!MESSAGE [Info]	Using Typescript version (user-setting) 5.6.3 from path "C:\spring-tool-suite-4-4.27.0.RELEASE-e4.34.0-win32.win32.x86_64\sts-4.27.0.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.2.4.202411181846\node_modules\typescript\lib\tsserver.js"
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:23:17.267
+!MESSAGE [Info]	Typescript Server version info: {version=5.6.3, source=user-setting}
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:23:47.541
+!MESSAGE [Info]	ESLint server running in node v22.11.0
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:32:37.722
+!MESSAGE Classpath changed for project: Display_Date
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:32:37.723
+!MESSAGE Boot project REMOVED: Display_Date
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:32:38.944
+!MESSAGE Classpath changed for project: Simple_Receipt
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:32:38.950
+!MESSAGE Boot project ADDED: Simple_Receipt
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:32:51.592
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:32:51.594
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:32:51.595
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:32:51.596
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:32:51.611
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:32:51.617
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:32:53.125
+!MESSAGE [Info]	ESLint server running in node v22.11.0
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:33:04.420
+!MESSAGE Classpath changed for project: Simple_Receipt
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:33:04.421
+!MESSAGE Boot project REMOVED: Simple_Receipt
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:33:05.854
+!MESSAGE Classpath changed for project: Routes
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:33:05.856
+!MESSAGE Boot project ADDED: Routes
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:14.586
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:14.593
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:14.595
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:14.596
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:14.610
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:14.615
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:33:17.177
+!MESSAGE [Info]	ESLint server running in node v22.11.0
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:33:30.370
+!MESSAGE Classpath changed for project: Routes
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:33:30.370
+!MESSAGE Boot project REMOVED: Routes
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:33:31.912
+!MESSAGE Classpath changed for project: Path_Variables
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:33:31.914
+!MESSAGE Boot project ADDED: Path_Variables
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:47.770
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:47.771
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:47.772
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:47.772
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:47.785
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:33:47.789
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:33:49.493
+!MESSAGE [Info]	ESLint server running in node v22.11.0
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:34:01.954
+!MESSAGE Classpath changed for project: Path_Variables
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:34:01.955
+!MESSAGE Boot project REMOVED: Path_Variables
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:34:02.956
+!MESSAGE Classpath changed for project: Display_Date
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:34:02.957
+!MESSAGE Boot project ADDED: Display_Date
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:34:04.948
+!MESSAGE [Info]	Using Typescript version (user-setting) 5.6.3 from path "C:\spring-tool-suite-4-4.27.0.RELEASE-e4.34.0-win32.win32.x86_64\sts-4.27.0.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.2.4.202411181846\node_modules\typescript\lib\tsserver.js"
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:34:05.303
+!MESSAGE [Info]	Typescript Server version info: {version=5.6.3, source=user-setting}
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:34:05.306
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:34:20.834
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:34:20.836
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:34:20.839
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:34:20.841
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:34:20.872
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-16 17:34:20.880
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:34:22.593
+!MESSAGE [Info]	ESLint server running in node v22.11.0
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:34:23.165
+!MESSAGE [Info]	Using Typescript version (user-setting) 5.6.3 from path "C:\spring-tool-suite-4-4.27.0.RELEASE-e4.34.0-win32.win32.x86_64\sts-4.27.0.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.2.4.202411181846\node_modules\typescript\lib\tsserver.js"
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-12-16 17:34:23.170
+!MESSAGE [Info]	Typescript Server version info: {version=5.6.3, source=user-setting}
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:34:23.175
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:34:23.183
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:34:23.199
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:01.601
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:02.199
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:02.867
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:03.889
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:03.912
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:04.478
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:05.854
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:05.862
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:06.294
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:06.990
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:07.901
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:07.926
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:16.563
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:16.586
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:16.599
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:21.695
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:22.503
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:22.521
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:42.865
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:43.605
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:37:43.650
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:33.192
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:37.613
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:37.691
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:37.693
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:50.168
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:50.174
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:50.182
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:51.991
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:52.001
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:52.012
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:53.296
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:53.305
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:53.315
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:55.011
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:55.036
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:38:55.065
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:39:09.239
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:39:09.245
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:39:09.253
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:39:12.455
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:39:12.463
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:39:12.472
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:39:21.179
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:39:21.189
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-12-16 17:39:21.194
+!MESSAGE [Error]	Unexpected resource file:///D:/Java%20Stack/Java%20Spring/Display_Date/src/main/java/com/example/demo/DisplayDateController.java
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:45:18.403
+!MESSAGE Classpath changed for project: Display_Date
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-16 17:45:18.403
+!MESSAGE Boot project REMOVED: Display_Date
