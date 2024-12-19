@@ -354,3 +354,119 @@
 2024-12-17 22:34:35,002 [Worker-6: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-12-17 22:34:35,009 [Worker-6: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-12-17 22:34:35,012 [Worker-6: Launching Counter - CounterApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Counter\src\test\resources
+2024-12-18 07:58:37,643 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-18 08:01:41,955 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Omikuji_Form:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Omikuji_Form\pom.xml.
+2024-12-18 08:01:44,038 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Omikuji_Form/src/main/java
+2024-12-18 08:01:44,041 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Omikuji_Form/src/main/resources
+2024-12-18 08:01:44,047 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Omikuji_Form/src/main/resources
+2024-12-18 08:01:44,053 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Omikuji_Form/src/test/java
+2024-12-18 08:01:44,054 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Omikuji_Form/src/test/resources
+2024-12-18 08:01:48,294 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2024-12-18 08:01:48,298 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-18 08:01:49,238 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Omikuji_Form:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Omikuji_Form\pom.xml.
+2024-12-18 08:01:50,807 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Omikuji_Form/src/main/java
+2024-12-18 08:01:50,808 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Omikuji_Form/src/main/resources
+2024-12-18 08:01:50,809 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Omikuji_Form/src/main/resources
+2024-12-18 08:01:50,810 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Omikuji_Form/src/test/java
+2024-12-18 08:01:50,812 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Omikuji_Form/src/test/resources
+2024-12-18 08:01:53,025 [Worker-2: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Omikuji_Form
+2024-12-18 08:01:53,168 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2024-12-18 08:01:58,827 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-18 08:01:58,860 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:01:58,869 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-18 08:01:58,870 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Omikuji_Form
+2024-12-18 08:01:58,873 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Omikuji_Form
+2024-12-18 08:02:05,012 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:JSTL-Loops:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Counter\pom.xml.
+2024-12-18 08:05:07,035 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:05:07,036 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:05:07,041 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-18 08:07:55,186 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:07:55,196 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:07:55,205 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-18 08:08:15,820 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:08:15,822 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:08:15,828 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-18 08:08:42,111 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:08:42,113 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:08:42,120 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-18 08:10:45,125 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-18 08:10:45,137 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:10:45,144 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-18 08:14:50,360 [Worker-0: Launching Omikuji_Form - OmikujiFormApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Omikuji_Form:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Omikuji_Form\pom.xml.
+2024-12-18 08:14:52,002 [Worker-0: Launching Omikuji_Form - OmikujiFormApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-18 08:14:52,059 [Worker-0: Launching Omikuji_Form - OmikujiFormApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:14:52,080 [Worker-0: Launching Omikuji_Form - OmikujiFormApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-18 08:14:52,081 [Worker-0: Launching Omikuji_Form - OmikujiFormApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Omikuji_Form
+2024-12-18 08:14:52,081 [Worker-0: Launching Omikuji_Form - OmikujiFormApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Omikuji_Form
+2024-12-18 08:14:53,346 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-18 08:14:53,380 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:14:53,384 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-18 08:16:18,094 [Worker-6: Launching Omikuji_Form - OmikujiFormApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-18 08:16:18,102 [Worker-6: Launching Omikuji_Form - OmikujiFormApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 08:16:18,107 [Worker-6: Launching Omikuji_Form - OmikujiFormApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-18 09:36:56,320 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-19 09:27:46,258 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Ninja_Gold_Game:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Ninja_Gold_Game\pom.xml.
+2024-12-19 09:27:48,364 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ninja_Gold_Game/src/main/java
+2024-12-19 09:27:48,367 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ninja_Gold_Game/src/main/resources
+2024-12-19 09:27:48,371 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ninja_Gold_Game/src/main/resources
+2024-12-19 09:27:48,376 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ninja_Gold_Game/src/test/java
+2024-12-19 09:27:48,377 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ninja_Gold_Game/src/test/resources
+2024-12-19 09:27:50,038 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2024-12-19 09:27:50,043 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-19 09:27:50,803 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Ninja_Gold_Game:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Ninja_Gold_Game\pom.xml.
+2024-12-19 09:27:52,006 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ninja_Gold_Game/src/main/java
+2024-12-19 09:27:52,006 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ninja_Gold_Game/src/main/resources
+2024-12-19 09:27:52,007 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ninja_Gold_Game/src/main/resources
+2024-12-19 09:27:52,008 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ninja_Gold_Game/src/test/java
+2024-12-19 09:27:52,009 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ninja_Gold_Game/src/test/resources
+2024-12-19 09:27:53,450 [Worker-31: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ninja_Gold_Game
+2024-12-19 09:27:53,611 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2024-12-19 09:27:54,939 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 09:27:54,990 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:27:54,997 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 09:27:54,997 [Worker-33: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ninja_Gold_Game
+2024-12-19 09:27:54,998 [Worker-33: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ninja_Gold_Game
+2024-12-19 09:28:39,381 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 09:28:39,476 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:28:39,482 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 09:32:06,287 [Worker-36: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Omikuji_Form:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Omikuji_Form\pom.xml.
+2024-12-19 09:32:37,017 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 09:32:37,038 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:32:37,099 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 09:40:20,271 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:40:20,273 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:40:20,278 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 09:41:27,478 [Worker-39: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Omikuji_Form:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Omikuji_Form\pom.xml.
+2024-12-19 09:45:16,888 [Worker-39: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Ninja_Gold_Game:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Ninja_Gold_Game\pom.xml.
+2024-12-19 09:45:17,989 [Worker-39: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 09:45:18,011 [Worker-39: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:45:18,017 [Worker-39: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 09:45:18,017 [Worker-39: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ninja_Gold_Game
+2024-12-19 09:45:18,017 [Worker-39: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ninja_Gold_Game
+2024-12-19 09:45:19,065 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 09:45:19,081 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:45:19,085 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 09:46:49,369 [Worker-41: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:46:49,373 [Worker-41: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:46:49,403 [Worker-41: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 09:54:29,492 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:54:29,495 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 09:54:29,502 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 10:00:10,572 [Worker-39: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 10:00:10,582 [Worker-39: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 10:00:10,588 [Worker-39: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 10:29:33,405 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 10:29:33,407 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 10:29:33,411 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 10:30:53,521 [Worker-50: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 10:30:53,549 [Worker-50: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 10:30:53,553 [Worker-50: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 10:33:12,337 [Worker-53: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 10:33:12,345 [Worker-53: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 10:33:12,350 [Worker-53: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 10:52:12,382 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 10:52:12,384 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 10:52:12,390 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-19 10:52:53,497 [Worker-50: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 10:52:53,499 [Worker-50: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 10:52:53,504 [Worker-50: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
