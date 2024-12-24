@@ -470,3 +470,292 @@
 2024-12-19 10:52:53,497 [Worker-50: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-12-19 10:52:53,499 [Worker-50: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-12-19 10:52:53,504 [Worker-50: Launching Ninja_Gold_Game - NinjaGoldGameApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Ninja_Gold_Game\src\test\resources
+2024-12-21 02:29:34,061 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-21 02:29:42,468 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Omikuji_Form:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Omikuji_Form\pom.xml.
+2024-12-21 02:29:44,281 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Omikuji_Form:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Omikuji_Form\pom.xml.
+2024-12-21 02:29:50,265 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Omikuji_Form:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Omikuji_Form\pom.xml.
+2024-12-23 13:40:36,517 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-23 13:46:12,910 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Books_API:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Books_API\pom.xml.
+2024-12-23 13:46:15,365 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Books_API/src/main/java
+2024-12-23 13:46:15,368 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Books_API/src/main/resources
+2024-12-23 13:46:15,375 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Books_API/src/main/resources
+2024-12-23 13:46:15,383 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Books_API/src/test/java
+2024-12-23 13:46:15,386 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Books_API/src/test/resources
+2024-12-23 13:46:22,496 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2024-12-23 13:46:22,511 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-23 13:46:24,033 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Books_API:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Books_API\pom.xml.
+2024-12-23 13:46:27,544 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Books_API/src/main/java
+2024-12-23 13:46:27,546 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Books_API/src/main/resources
+2024-12-23 13:46:27,547 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Books_API/src/main/resources
+2024-12-23 13:46:27,548 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Books_API/src/test/java
+2024-12-23 13:46:27,550 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Books_API/src/test/resources
+2024-12-23 13:46:31,608 [Worker-8: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Books_API
+2024-12-23 13:46:31,708 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 2.00 sec 
+2024-12-23 13:46:39,749 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-23 13:46:39,836 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-23 13:46:39,846 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-23 13:46:39,847 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Books_API
+2024-12-23 13:46:39,851 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Books_API
+2024-12-23 13:55:57,980 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Ninja_Gold_Game:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Ninja_Gold_Game\pom.xml.
+2024-12-24 07:16:53,004 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-24 07:20:50,348 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-24 07:25:47,337 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-24 07:26:00,487 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Books_API:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Books_API\pom.xml.
+2024-12-24 07:26:05,861 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Books_API:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Books_API\pom.xml.
+2024-12-24 07:26:42,460 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 07:26:42,483 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 07:26:42,491 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 07:34:34,647 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 07:34:34,665 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 07:34:34,673 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 07:36:28,903 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 07:36:28,921 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 07:36:28,926 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 07:41:30,545 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 07:41:30,559 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 07:41:30,566 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 07:46:28,547 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Books_API:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Books_API\pom.xml.
+2024-12-24 07:46:30,221 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.34/tomcat-annotations-api-10.1.34.jar
+2024-12-24 07:46:30,275 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.34/tomcat-annotations-api-10.1.34.jar
+2024-12-24 07:46:31,103 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 07:46:31,104 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 07:46:31,112 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 07:46:31,115 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Books_API
+2024-12-24 07:46:31,116 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Books_API
+2024-12-24 07:46:32,110 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.34/tomcat-annotations-api-10.1.34-sources.jar
+2024-12-24 07:46:32,128 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.34/tomcat-annotations-api-10.1.34-sources.jar
+2024-12-24 07:46:32,135 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-annotations-api:10.1.34
+2024-12-24 07:46:33,306 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 07:46:33,329 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 07:46:33,334 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 07:52:01,430 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 07:52:01,443 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 07:52:01,449 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 07:53:28,445 [Worker-2: Launching Books_API - BooksApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 07:53:28,454 [Worker-2: Launching Books_API - BooksApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 07:53:28,459 [Worker-2: Launching Books_API - BooksApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 09:42:43,904 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-24 09:42:57,988 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 09:42:58,019 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 09:42:58,028 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 09:44:24,810 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 09:44:24,837 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 09:44:24,841 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 09:47:39,097 [Worker-2: Launching Books_API - BooksApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 09:47:39,111 [Worker-2: Launching Books_API - BooksApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 09:47:39,118 [Worker-2: Launching Books_API - BooksApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 09:48:39,805 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 09:48:39,816 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 09:48:39,830 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 09:49:21,157 [Worker-3: Launching Books_API - BooksApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 09:49:21,168 [Worker-3: Launching Books_API - BooksApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 09:49:21,172 [Worker-3: Launching Books_API - BooksApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Books_API\src\test\resources
+2024-12-24 09:54:33,505 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Books_API:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Books_API\pom.xml.
+2024-12-24 09:57:13,578 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Books_API:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Books_API\pom.xml.
+2024-12-24 09:59:26,542 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Omikuji_Form:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Omikuji_Form\pom.xml.
+2024-12-24 09:59:28,151 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 09:59:28,470 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-24 09:59:29,865 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 09:59:29,898 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 09:59:29,906 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\Omikuji_Form\src\test\resources
+2024-12-24 09:59:29,909 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Omikuji_Form
+2024-12-24 09:59:29,910 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Omikuji_Form
+2024-12-24 09:59:29,930 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Omikuji_Form:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Omikuji_Form\pom.xml.
+2024-12-24 10:02:37,780 [Worker-3: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 10:02:38,651 [Worker-3: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsosacademy.savetravels:SaveTravels:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\SaveTravels\pom.xml.
+2024-12-24 10:02:40,401 [Worker-3: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SaveTravels/src/main/java
+2024-12-24 10:02:40,410 [Worker-3: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SaveTravels/src/main/resources
+2024-12-24 10:02:40,438 [Worker-3: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SaveTravels/src/main/resources
+2024-12-24 10:02:40,447 [Worker-3: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SaveTravels/src/test/java
+2024-12-24 10:02:40,448 [Worker-3: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SaveTravels/src/test/resources
+2024-12-24 10:02:41,962 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 10:02:41,988 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 10:02:42,001 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\SaveTravels\src\test\resources
+2024-12-24 10:02:44,599 [Worker-3: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 4.00 sec 
+2024-12-24 10:02:45,029 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 10:02:45,033 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 10:02:45,042 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\SaveTravels\src\test\resources
+2024-12-24 10:05:37,005 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsosacademy.savetravels:SaveTravels:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\SaveTravels\pom.xml.
+2024-12-24 11:50:33,843 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-24 12:28:49,079 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 12:28:50,595 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RenderingBooks.project.com:RenderingBooks:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\RenderingBooks\pom.xml.
+2024-12-24 12:28:53,669 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RenderingBooks/src/main/java
+2024-12-24 12:28:53,674 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/main/resources
+2024-12-24 12:28:53,682 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/main/resources
+2024-12-24 12:28:53,691 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RenderingBooks/src/test/java
+2024-12-24 12:28:53,693 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/test/resources
+2024-12-24 12:28:56,267 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 12:28:56,417 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:28:56,431 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 12:28:58,297 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 5.00 sec 
+2024-12-24 12:28:58,549 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 12:28:58,554 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:28:58,558 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 12:28:59,018 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:28:59,019 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:28:59,022 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 12:32:21,932 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RenderingBooks.project.com:RenderingBooks:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\RenderingBooks\pom.xml.
+2024-12-24 12:32:23,431 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 12:32:23,458 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:32:23,465 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 12:32:25,334 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RenderingBooks.project.com:RenderingBooks:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\RenderingBooks\pom.xml.
+2024-12-24 12:32:25,500 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 12:32:25,536 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:32:25,543 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 12:35:28,006 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 12:35:28,534 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RenderingBooks.project.com:RenderingBooks:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\RenderingBooks\pom.xml.
+2024-12-24 12:35:29,242 [Worker-22: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RenderingBooks/src/main/java
+2024-12-24 12:35:29,258 [Worker-22: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/main/resources
+2024-12-24 12:35:29,267 [Worker-22: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/main/resources
+2024-12-24 12:35:29,274 [Worker-22: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RenderingBooks/src/test/java
+2024-12-24 12:35:29,275 [Worker-22: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/test/resources
+2024-12-24 12:35:30,163 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 12:35:30,187 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:35:30,194 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 12:35:31,434 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 2.00 sec 
+2024-12-24 12:35:32,077 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 12:35:32,079 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:35:32,090 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 12:35:32,372 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:35:32,373 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:35:32,379 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 12:40:49,358 [Worker-25: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 12:40:49,868 [Worker-25: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RenderingAllBooks.project.com:RenderingAllBooks:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\RenderingAllBooks\pom.xml.
+2024-12-24 12:40:50,615 [Worker-25: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RenderingAllBooks/src/main/java
+2024-12-24 12:40:50,616 [Worker-25: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingAllBooks/src/main/resources
+2024-12-24 12:40:50,623 [Worker-25: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingAllBooks/src/main/resources
+2024-12-24 12:40:50,629 [Worker-25: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RenderingAllBooks/src/test/java
+2024-12-24 12:40:50,630 [Worker-25: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingAllBooks/src/test/resources
+2024-12-24 12:40:51,516 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 12:40:51,553 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:40:51,559 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingAllBooks\src\test\resources
+2024-12-24 12:40:52,646 [Worker-25: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 2.00 sec 
+2024-12-24 12:40:53,054 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 12:40:53,056 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:40:53,059 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingAllBooks\src\test\resources
+2024-12-24 12:40:55,174 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:40:55,174 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 12:40:55,177 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingAllBooks\src\test\resources
+2024-12-24 13:05:31,033 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-24 13:05:58,244 [Worker-2: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 13:06:01,071 [Worker-2: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RenderingBooks.project.com:RenderingBooks:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\RenderingBooks\pom.xml.
+2024-12-24 13:06:04,250 [Worker-2: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RenderingBooks/src/main/java
+2024-12-24 13:06:04,255 [Worker-2: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/main/resources
+2024-12-24 13:06:04,277 [Worker-2: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/main/resources
+2024-12-24 13:06:04,289 [Worker-2: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RenderingBooks/src/test/java
+2024-12-24 13:06:04,291 [Worker-2: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/test/resources
+2024-12-24 13:06:07,332 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 13:06:07,365 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:06:07,372 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 13:06:10,309 [Worker-2: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 6.00 sec 
+2024-12-24 13:06:10,501 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 13:06:10,503 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:06:10,508 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 13:06:11,271 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:06:11,272 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:06:11,277 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 13:11:11,335 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 13:11:12,210 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsosacademy.loginandregistration.mvc:LoginAndRegistration:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\LoginAndRegistration\pom.xml.
+2024-12-24 13:11:13,768 [Worker-10: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginAndRegistration/src/main/java
+2024-12-24 13:11:13,770 [Worker-10: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginAndRegistration/src/main/resources
+2024-12-24 13:11:13,788 [Worker-10: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginAndRegistration/src/main/resources
+2024-12-24 13:11:13,810 [Worker-10: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginAndRegistration/src/test/java
+2024-12-24 13:11:13,811 [Worker-10: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginAndRegistration/src/test/resources
+2024-12-24 13:11:15,229 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 13:11:15,253 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:11:15,259 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\LoginAndRegistration\src\test\resources
+2024-12-24 13:11:17,096 [Worker-10: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 3.00 sec 
+2024-12-24 13:11:17,250 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 13:11:17,253 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:11:17,258 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\LoginAndRegistration\src\test\resources
+2024-12-24 13:11:20,460 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:11:20,462 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:11:20,475 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\LoginAndRegistration\src\test\resources
+2024-12-24 13:14:22,463 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 13:14:23,255 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsosacademy.burgertrackeri.mvc:BurgerTrackerI:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\BurgerTrackerI\pom.xml.
+2024-12-24 13:14:24,441 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BurgerTrackerI/src/main/java
+2024-12-24 13:14:24,442 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BurgerTrackerI/src/main/resources
+2024-12-24 13:14:24,448 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BurgerTrackerI/src/main/resources
+2024-12-24 13:14:24,467 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BurgerTrackerI/src/test/java
+2024-12-24 13:14:24,469 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BurgerTrackerI/src/test/resources
+2024-12-24 13:14:25,751 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 13:14:25,798 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:14:25,805 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\BurgerTrackerI\src\test\resources
+2024-12-24 13:14:27,302 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 3.00 sec 
+2024-12-24 13:14:27,436 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 13:14:27,438 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:14:27,442 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\BurgerTrackerI\src\test\resources
+2024-12-24 13:14:29,931 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:14:29,932 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:14:29,936 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\BurgerTrackerI\src\test\resources
+2024-12-24 13:17:38,107 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 13:17:38,858 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsosacademy:BurgerTrackerII:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\BurgerTrackerII\pom.xml.
+2024-12-24 13:17:40,051 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BurgerTrackerII/src/main/java
+2024-12-24 13:17:40,052 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BurgerTrackerII/src/main/resources
+2024-12-24 13:17:40,065 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BurgerTrackerII/src/main/resources
+2024-12-24 13:17:40,071 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BurgerTrackerII/src/test/java
+2024-12-24 13:17:40,072 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BurgerTrackerII/src/test/resources
+2024-12-24 13:17:40,947 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 13:17:40,970 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:17:40,975 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\BurgerTrackerII\src\test\resources
+2024-12-24 13:17:43,066 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 3.00 sec 
+2024-12-24 13:17:43,145 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 13:17:43,147 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:17:43,151 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\BurgerTrackerII\src\test\resources
+2024-12-24 13:17:43,397 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:17:43,398 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:17:43,401 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\BurgerTrackerII\src\test\resources
+2024-12-24 13:24:17,248 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsosacademy.burgertrackeri.mvc:BurgerTrackerI:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\BurgerTrackerI\pom.xml.
+2024-12-24 13:27:29,623 [Worker-15: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 13:27:30,243 [Worker-15: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsosacademy.dojosninjas.mvc:DojosAndNinjas:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\DojosAndNinjas\pom.xml.
+2024-12-24 13:27:31,375 [Worker-15: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DojosAndNinjas/src/main/java
+2024-12-24 13:27:31,375 [Worker-15: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DojosAndNinjas/src/main/resources
+2024-12-24 13:27:31,382 [Worker-15: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DojosAndNinjas/src/main/resources
+2024-12-24 13:27:31,388 [Worker-15: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DojosAndNinjas/src/test/java
+2024-12-24 13:27:31,388 [Worker-15: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DojosAndNinjas/src/test/resources
+2024-12-24 13:27:32,711 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 13:27:32,743 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:27:32,749 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\DojosAndNinjas\src\test\resources
+2024-12-24 13:27:34,292 [Worker-15: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 3.00 sec 
+2024-12-24 13:27:34,403 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 13:27:34,405 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:27:34,408 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\DojosAndNinjas\src\test\resources
+2024-12-24 13:27:37,182 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:27:37,186 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 13:27:37,197 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\DojosAndNinjas\src\test\resources
+2024-12-24 13:49:51,765 [Worker-26: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Books_API:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\Books_API\pom.xml.
+2024-12-24 14:01:17,335 [Worker-31: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.axsosacademy.loginandregistration.mvc:LoginAndRegistration:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\LoginAndRegistration\pom.xml.
+2024-12-24 16:01:48,571 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 16:01:49,095 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RenderingBooks.project.com:RenderingBooks:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\RenderingBooks\pom.xml.
+2024-12-24 16:01:50,247 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RenderingBooks/src/main/java
+2024-12-24 16:01:50,248 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/main/resources
+2024-12-24 16:01:50,254 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/main/resources
+2024-12-24 16:01:50,260 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RenderingBooks/src/test/java
+2024-12-24 16:01:50,261 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RenderingBooks/src/test/resources
+2024-12-24 16:01:51,109 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 16:01:51,130 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 16:01:51,136 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 16:01:52,378 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 2.00 sec 
+2024-12-24 16:01:52,658 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 16:01:52,660 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 16:01:52,664 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 16:01:55,659 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 16:01:55,660 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 16:01:55,663 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\RenderingBooks\src\test\resources
+2024-12-24 16:49:21,153 [Worker-41: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-24 16:49:21,625 [Worker-41: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RenderingAllBooks.project.com:RenderingAllBooks:0.0.1-SNAPSHOT @ D:\Java Stack\Java Spring\AllBooks\pom.xml.
+2024-12-24 16:49:22,432 [Worker-41: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AllBooks/src/main/java
+2024-12-24 16:49:22,433 [Worker-41: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AllBooks/src/main/resources
+2024-12-24 16:49:22,437 [Worker-41: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AllBooks/src/main/resources
+2024-12-24 16:49:22,443 [Worker-41: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AllBooks/src/test/java
+2024-12-24 16:49:22,443 [Worker-41: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AllBooks/src/test/resources
+2024-12-24 16:49:22,996 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 16:49:23,014 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 16:49:23,018 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\AllBooks\src\test\resources
+2024-12-24 16:49:24,072 [Worker-41: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2024-12-24 16:49:24,535 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-24 16:49:24,536 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 16:49:24,538 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\AllBooks\src\test\resources
+2024-12-24 16:49:26,581 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 16:49:26,581 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-24 16:49:26,584 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java Stack\Java Spring\AllBooks\src\test\resources
