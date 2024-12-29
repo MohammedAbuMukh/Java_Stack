@@ -42,6 +42,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Java Stack\Java Spring\ProductsAndCategories"/>
+			<item value="D:\Java Stack\Java Spring\BooksClub"/>
 			<item value="D:\Java Stack\Java Spring\AllBooks"/>
 			<item value="D:\Java Stack\Java Spring\DojosAndNinjas"/>
 			<item value="D:\Java Stack\Java Spring\BurgerTrackerII"/>
